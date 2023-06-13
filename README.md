@@ -1,3 +1,3 @@
 # The cvxpy solver for matlabe code conversion. 
-
-## Author: Wen
+## Please check the .ipynb file
+#### Author: Otis Wen
